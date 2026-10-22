@@ -1,0 +1,7 @@
+{
+  "uuid": "exit-strategy@ashutosh",
+  "name": "Exit Strategy",
+  "description": "One-click Tailscale exit node from Quick Settings, with live data usage and a red top bar while you're tunnelled.",
+  "shell-version": ["46"],
+  "version": 1
+}
